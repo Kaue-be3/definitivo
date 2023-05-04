@@ -1,0 +1,56 @@
+body{
+    background: url(../imagens/download\ \(2\).jfif) no-repeat center / cover;
+}
+main{
+    background-color: #cec3c1;
+    border: 1px solid;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.meio{
+    margin: auto;
+    width: 600px;
+    text-align: justify;
+}
+.meio > h1{
+    text-align: center;
+}
+.cen{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.cen > div{
+    padding: 10px;
+    width: 340px;
+}
+img{
+    border-radius: 30px;
+    padding: 15px;
+}
+.cent {
+    margin: auto;
+    width: 700px;
+    text-align: justify;
+}
+.cent > h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    margin-top: 5px;
+}
+a:hover{
+    background-color: rgb(105, 103, 103);
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: black;
+}
+

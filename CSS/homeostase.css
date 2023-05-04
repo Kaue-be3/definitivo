@@ -1,0 +1,38 @@
+body{
+    background: url(../imagens/download\ \(2\).jfif) no-repeat center / cover;
+}
+main{
+    background-color: #cec3c1;
+    border: 1px solid;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 35px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    width: 800px;
+    margin: auto;
+    text-align: justify;
+}
+ul li{
+    margin: auto;
+}
+a:hover{
+    background-color: rgb(105, 103, 103);
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: black;
+}
